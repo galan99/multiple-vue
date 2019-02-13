@@ -1,13 +1,11 @@
 # [vue-cli配置文章介绍](http://www.jianshu.com/p/be57e081c0f3)
 
 # 预览效果
-
-<img src="./pic/1.png" width="30%"/>
-<img src="./pic/2.png" width="30%"/>
-<img src="./pic/3.png" width="30%"/>
-<img src="./pic/4.png" width="30%"/>
-<img src="./pic/5.png" width="30%"/>
-<img src="./pic/6.png" width="30%"/>
+<div align="center">
+<img src="./pic/1.png" width="30%"/><img src="./pic/2.png" width="30%"/>
+<img src="./pic/3.png" width="30%"/><img src="./pic/4.png" width="30%"/>
+<img src="./pic/5.png" width="30%"/><img src="./pic/6.png" width="30%"/>
+</div>
 
 vue是目前灰常火的前端框架，但是我们在开发pc的web端时经常需要用到多页系统，而不是简单的单页系统，而vue-cli(最好用的脚手架)只有单页应用的的脚手架，要配置一个自己能用的vue多页应用的脚手架有以下修改的地方
 
