@@ -2,12 +2,12 @@
 
 # 预览效果
 
-[首页](https://alipic.lanhuapp.com/ps189ffec2da97b398-c0ef-410c-9366-bc7e19fef7e4)
-[创建活动](https://alipic.lanhuapp.com/SketchCover916e53f623233ac8a2ba88e4f48fda77)
-[活动进行中](https://alipic.lanhuapp.com/SketchCover83a071fbceefa40b2b79bd2002cb4566)
-[锦鲤](https://alipic.lanhuapp.com/SketchCover52657e3715b25fb8251e9b72c140fc08)
-[提现](https://alipic.lanhuapp.com/SketchCover2dd7ac16e3d482ea9f885c4104c94afb)
-[红包弹窗](https://alipic.lanhuapp.com/SketchCover26cf2a55fc090dd18d28ea565943a3b6)
+![首页](https://alipic.lanhuapp.com/ps189ffec2da97b398-c0ef-410c-9366-bc7e19fef7e4)
+![创建活动](https://alipic.lanhuapp.com/SketchCover916e53f623233ac8a2ba88e4f48fda77)
+![活动进行中](https://alipic.lanhuapp.com/SketchCover83a071fbceefa40b2b79bd2002cb4566)
+![锦鲤](https://alipic.lanhuapp.com/SketchCover52657e3715b25fb8251e9b72c140fc08)
+![提现](https://alipic.lanhuapp.com/SketchCover2dd7ac16e3d482ea9f885c4104c94afb)
+![红包弹窗](https://alipic.lanhuapp.com/SketchCover26cf2a55fc090dd18d28ea565943a3b6)
 
 vue是目前灰常火的前端框架，但是我们在开发pc的web端时经常需要用到多页系统，而不是简单的单页系统，而vue-cli(最好用的脚手架)只有单页应用的的脚手架，要配置一个自己能用的vue多页应用的脚手架有以下修改的地方
 
